@@ -22,6 +22,11 @@ If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.co
 
 From 2014 - 2017, there is an upward trend in sales revenue, especially in the end of the year period. This happens possibly because of consumers' buying trend tend to increase in that period, or it could be due to the store discount period.
 
+#### Monthly sales trends by year
+
+![image](https://github.com/user-attachments/assets/9c663be3-01cd-4fe3-9813-58c4d7d753ef)
+
+
 **2. Sales by product category**
 
 #### Sales by product category
@@ -39,6 +44,16 @@ From this sunburt chart, we can see the amount that each product accounts for in
 - Furniture: Chairs, Tables
 - Technology: Phones
 - Office supplies: Storage, Binders
+
+#### Monthly sales trend by year for each category
+
+![image](https://github.com/user-attachments/assets/ca6d6929-5d97-445c-be2d-0605916d2436)
+
+![image](https://github.com/user-attachments/assets/94251495-e374-4904-81fe-3ffe972a7e0f)
+
+![image](https://github.com/user-attachments/assets/3da50116-983c-4ea6-9bd8-ba8f87885a28)
+
+#### Sales and profit by Sub-Category
 
 ![image](https://github.com/user-attachments/assets/fcc188d8-4384-4c00-a7de-b61e0369284a)
 
